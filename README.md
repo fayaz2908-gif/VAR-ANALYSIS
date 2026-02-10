@@ -6,8 +6,8 @@
 The project focuses on calculating potential losses in financial portfolios by applying statistical models to historical price data.
 
 ## Core Methodologies
-- [cite_start]**Parametric VaR (Variance-Covariance):** Uses the Z-score and normal distribution of log returns to quantify risk[cite: 8].
-- [cite_start]**Historical Simulation:** A non-parametric method that determines the Value-at-Risk based on the actual distribution of historical returns[cite: 8].
+- **Parametric VaR (Variance-Covariance):** Uses the Z-score and normal distribution of log returns to quantify risk.
+- **Historical Simulation:** A non-parametric method that determines the Value-at-Risk based on the actual distribution of historical returns.
 
 ## File Descriptions
 - `risk_analysis.py`: The core engine containing the mathematical logic for VaR calculations.

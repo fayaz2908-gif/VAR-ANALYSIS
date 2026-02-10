@@ -1,7 +1,7 @@
 # Market Risk Analysis & VaR Modeling
 
 ## Project Overview
-[cite_start]This repository contains the technical implementation of my research project, **"Analysis of market risk measurement techniques with focus on VaR"**, completed during my internship at the **Indian Bank Corporate Office (Risk Management Department)**.
+This repository contains the technical implementation of my research project, **"Analysis of market risk measurement techniques with focus on VaR"**, completed during my internship at the **Indian Bank Corporate Office (Risk Management Department)**.
 
 The project focuses on calculating potential losses in financial portfolios by applying statistical models to historical price data.
 
@@ -19,4 +19,4 @@ The project focuses on calculating potential losses in financial portfolios by a
 - **Data Visualization:** Plotting return distributions and risk thresholds using `Matplotlib`.
 
 ## Internship Recognition
-[cite_start]During this project at Indian Bank, I was recognized by the Assistant General Manager (HRD) for demonstrating **enthusiasm, leadership, self-discipline, and self-motivation**[cite: 9, 13].
+During this project at Indian Bank, I was recognized by the Assistant General Manager (HRD) for demonstrating **enthusiasm, leadership, self-discipline, and self-motivation**.
